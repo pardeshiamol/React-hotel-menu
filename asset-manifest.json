@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-hotel-menu/static/css/main.17655c3c.css",
+    "main.js": "/React-hotel-menu/static/js/main.3ff361d5.js",
+    "index.html": "/React-hotel-menu/index.html",
+    "main.17655c3c.css.map": "/React-hotel-menu/static/css/main.17655c3c.css.map",
+    "main.3ff361d5.js.map": "/React-hotel-menu/static/js/main.3ff361d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.3ff361d5.js"
+  ]
+}
